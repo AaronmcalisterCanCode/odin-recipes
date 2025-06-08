@@ -1,0 +1,13 @@
+body {text-align: center;}
+
+img {width: 400px;
+     height: 250px;
+    border-radius: 30px;}
+
+#list1 {text-align: left;}
+
+#list2 {text-align: left;}
+
+li {}
+
+h3 { border: 2px solid brown;}
