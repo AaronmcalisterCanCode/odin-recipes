@@ -1,1 +1,1 @@
-This is my odin recipe project
+This is my odin recipe project going over beginer level HTML and CSS

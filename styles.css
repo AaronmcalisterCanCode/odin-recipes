@@ -1,4 +1,5 @@
-body {text-align: center;}
+body {text-align: center;
+font-family: 'Times New Roman', Times, serif;}
 
 img {width: 400px;
      height: 250px;
@@ -10,4 +11,5 @@ img {width: 400px;
 
 li {}
 
-h3 { border: 2px solid brown;}
+h3 { border: 2px solid brown;
+background-color: wheat;}
